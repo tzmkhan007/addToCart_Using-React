@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: 1,
+    title: "Heavenly Chocolate Cake",
+    description: "The two celebratory flavours",
+    price: "699",
+    img: "https://imgcdn.floweraura.com/sinful-chocolate-truffle-a.jpg",
+    quantity: 1,
+  },
+  {
+    id: 2,
+    title: "American Almond Chocolate Cake",
+    description: "Really rich flavour.",
+    price: "599",
+    img: "https://www.justbake.in/userfiles/jb-plumcake-web.jpg",
+    quantity: 1,
+  },
+  {
+    id: 3,
+    title: "Premium Black Forest Cake",
+    description: "Premium Black Forest Cake An absolute favourite",
+    price: "499",
+    img: "https://www.justbake.in/userfiles/premium-black-forest-cake-new.jpg",
+    quantity: 1,
+  },
+  {
+    id: 4,
+    title: "Death By Chocolate Cake",
+    description: "DBC, The Original Sin secret recipe of Just Bake.",
+    price: "500",
+    img: "https://www.justbake.in/userfiles/death-by-chocolate-cake-new.jpg",
+    quantity: 1,
+  },
+  {
+    id: 5,
+    title: "Rusty Rasberry Chocolate Cake",
+    description: "Rusty Rasberry, A modern take for the discerning few...",
+    price: "799",
+    img: "https://www.justbake.in/userfiles/rusty-rasberry-chocolate-cake-new.jpg",
+    quantity: 1,
+  },
+];
